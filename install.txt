@@ -1,0 +1,13 @@
+HOW TO INSTALL
+==============
+1. Upload it to your server
+*finished*
+If you want, you can:
+- Edit the files in the includes/ directory give it the same design as the rest of your site
+- Set a couple of options in odp.php (eg. show amazon sponsor link)
+TERMS OF USE
+============
+This script is free of charge. We do not take any responsibility for damages caused by the use of this script either directly or indirectly.
+You do not have permission to remove the button on the bottom of each page that links to bie.no (if you want to remove this, you will have to buy the script for $20).
+To purchase;
+http://www.regsoft.net/purchase.php3?productid=48129
